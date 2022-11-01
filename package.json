@@ -1,0 +1,46 @@
+{
+  "name": "react-native-jest-generator",
+  "version": "1.0.3",
+  "description": "RN + TypeScript + Jest Unit test cases generator",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedarkhorseltd/rn-jest-gen.git"
+  },
+  "author": "The Dark Horse",
+  "license": "MIT",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "rn test cases",
+    "jest",
+    "jest test cases",
+    "react native jest",
+    "test generator"
+  ],
+  "devDependencies": {
+    "@faker-js/faker": "^7.5.0",
+    "fs": "^0.0.1-security",
+    "fs-readdir-recursive": "^1.1.0",
+    "path": "^0.12.7",
+    "prettier": "^2.7.1",
+    "prop-types": "^15.8.1",
+    "react": "17.0.2",
+    "react-docgen": "^5.4.3",
+    "react-native": "0.68.2",
+    "yeoman-generator": "^5.7.0",
+    "yosay": "^2.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/thedarkhorseltd/rn-jest-gen/issues"
+  },
+  "homepage": "https://github.com/thedarkhorseltd/rn-jest-gen#readme",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
